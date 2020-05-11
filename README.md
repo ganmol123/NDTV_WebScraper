@@ -23,10 +23,14 @@ The python modules required for this scraper as follows:
 Once this is done, add the following statements
 
 import bs4
+
 from bs4 import BeautifulSoup
+
 Note: important to add both the above lines and not just 'import bs4' to use BeautifulSoup
 
 import json
+
 import requests
+
 import lxml
 
